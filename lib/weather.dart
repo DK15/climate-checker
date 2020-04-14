@@ -1,7 +1,7 @@
 import 'package:climate_check/location.dart';
 import 'package:climate_check/networking.dart';
 
-const apiKey = '9f97f6aac47023a02ead07c5ab5b39a6';
+const apiKey = '<add your own key here>';
 const weatherMapURL = 'https://api.openweathermap.org/data/2.5/weather';
 double latitude;
 double longitude;
